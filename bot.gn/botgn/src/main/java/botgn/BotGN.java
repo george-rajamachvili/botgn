@@ -57,7 +57,7 @@ public class BotGN extends ListenerAdapter
 	// Bot API construction
 	public static void main(String args[]) throws LoginException
 	{
-		botgn = JDABuilder.createDefault("ODE4NTkxMDc0OTk3ODk1MTg4.YEaSWA.bpNmUMG9TJ6im4BS24XvpXybstA")
+		botgn = JDABuilder.createDefault("BOT TOKEN HERE")
 				.addEventListeners(new BotGN()).build();
 	}
 
