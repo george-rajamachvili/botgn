@@ -12,22 +12,30 @@ Future planned funationality:
 
 Command Index:
 - !ping
+
   Returns "pong" to the channel where the command was issued
 - !play
+
   Unpauses current playing track (if user has permission)
 - !play [STRING]
+
   Joins the voice channel of the user issuing the command, and plays audio corresponding to the link in the [STRING] argument
 - !pause
+
   Pauses/unpauses currently playing track
 - !np
+
   Outputs information about currently playing track (title, link, author, time position in audio)
 - !skip
+
   Skips the currently playing track
 
 Settings Command Index:
 - !settings
+
   Outputs current settings commands
 - !prefix [STRING]
+
   Changes prefix of bot ('*' by default)
 
   
