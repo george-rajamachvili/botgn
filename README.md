@@ -7,7 +7,7 @@ A "bot" for the popular social platform Discord, currently being created for the
 Current functionality:
 - Pongs when pinged
 - Plays music in a voice channel when prompted via text channel (using LavaPlayer)
-Future planned funationality:
+Future planned functionality:
 - Role management
 
 Command Index:
